@@ -1,4 +1,3 @@
-[Diagrams & Src Code.zip](https://github.com/ncramey85/CST-452/files/9035505/Diagrams.Src.Code.zip)
 # CST-452
 Repository for Senior Project 
 
@@ -13,3 +12,4 @@ Once the game is installed, run the application and using the keyboard, hit ente
 The application will run and the user will have to use the directional buttons on the keyboard to move Pacman. 
 
 As of 2022/07/02 there isn't any bugs/glitches that I am aware of. 
+[Diagrams & Src Code.zip](https://github.com/ncramey85/CST-452/files/9035506/Diagrams.Src.Code.zip)
