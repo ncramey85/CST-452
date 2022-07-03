@@ -12,4 +12,5 @@ Once the game is installed, run the application and using the keyboard, hit ente
 The application will run and the user will have to use the directional buttons on the keyboard to move Pacman. 
 
 As of 2022/07/02 there isn't any bugs/glitches that I am aware of. 
+Below is the code diagrams and Pacman source code. 
 [Diagrams & Src Code.zip](https://github.com/ncramey85/CST-452/files/9035506/Diagrams.Src.Code.zip)
